@@ -5,7 +5,7 @@
     "maintainer": "Josef Adamcik <josef.adamcik@gmail.com>",
     "usb": {
         "vid": "0xFC32",
-        "pid": "0x0287",
+        "pid": "0x3287", //New PID for VIA
         "device_version": "0.0.1"
     },
     "encoder": {
